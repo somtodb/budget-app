@@ -1,4 +1,4 @@
-# budget-app
+# Budget-app
 An application built with JS used for budget calculation.
 
 # Github pages
